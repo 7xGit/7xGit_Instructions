@@ -15,7 +15,7 @@ Whether you're new to open source or looking to improve your GitHub skills, this
 ## 📝 Mandatory Registration Form
 
 📌 **It is *mandatory* to fill out the form below. Contributions will not be considered for certification unless you're registered.**  
-[👉 Fill the Google Form Here](#) <!-- Replace # with your actual Google Form link -->
+[👉 Fill the Google Form Here](https://forms.gle/pfuttw6svqJhHRY96) <!-- Replace # with your actual Google Form link -->
 
 ---
 
