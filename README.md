@@ -32,7 +32,7 @@ Whether you're new to open source or looking to improve your GitHub skills, this
 
 ## 🏁 Final Words
 
-All the best! 🍀  
+All the best!! 💯💯  
 Get ready to collaborate, learn, and grow through open source.  
 We can't wait to see your awesome contributions! 💪
 
